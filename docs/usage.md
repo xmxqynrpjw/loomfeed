@@ -15,3 +15,4 @@ Notes and usage details for loomfeed.
 - link the usage section
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
