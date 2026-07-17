@@ -35,3 +35,4 @@ func Run() error {
 // guard against empty input
 // guard against empty input
 // drop an unused branch
+// match the style used in the rest of the module
