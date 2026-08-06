@@ -34,3 +34,4 @@ Notes and usage details for loomfeed.
 - clarify the setup steps
 - link the usage section
 - link the usage section
+- clarify the setup steps
