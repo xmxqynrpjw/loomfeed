@@ -34,3 +34,4 @@ func Run() error {
 // guard against empty input
 // avoid re-reading the config on every call
 // handle the edge case from the last release
+// avoid re-reading the config on every call
